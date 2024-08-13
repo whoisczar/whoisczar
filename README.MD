@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, im Gabriel Reis</h1>  
 <h3 align="center">I am a Computer Science student at the Federal Institute of Bahia. I am passionate about technology and have a keen interest in mobile and web development.</h3>  
   

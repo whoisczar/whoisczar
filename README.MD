@@ -17,6 +17,3 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisczar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="whoisczar" /></p> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisczar&show_icons=true&theme=dracula&locale=en" alt="whoisczar" /></p>
-
-<h3>Cat of the Day</h3>
-<p><img src="https://cataas.com/cat" alt="cat" height="50%">
